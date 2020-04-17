@@ -1,0 +1,10 @@
+.form {
+	background-color: #efefef;
+	width: 800px;
+	height: 400px;
+	margin: auto;
+}
+#submit{
+	background-color: #3CBC8D;
+  	color: white;
+}
